@@ -2,13 +2,14 @@
     background-color: #5EB1BF !important;
 }
 
+
 .about-bg {
     width: 100%;
     height: 100vh;
     padding-right: 0 !important;
     margin-right: 0 !important;
     max-width: 100%;
-    background-color: #DFBE99 !important;
+    background-color: #eedbfe !important;
 }
 
 .experience-bg {
@@ -17,7 +18,52 @@
     padding-right: 0 !important;
     margin-right: 0 !important;
     max-width: 100%;
-    background-color: rgb(231, 141, 80) !important;
+    background-color: rgb(232, 207, 230) !important;
+}
+
+.educate-bg {
+    width: 100%;
+    height: 100vh;
+    padding-right: 0 !important;
+    margin-right: 0 !important;
+    max-width: 100%;
+    background-color: rgb(196, 186, 239) !important;
+}
+
+.matter-bg {
+    width: 100%;
+    height: 100vh;
+    padding-right: 0 !important;
+    margin-right: 0 !important;
+    max-width: 100%;
+    background-color: rgb(237, 255, 187) !important;
+}
+
+.skill-bg {
+    width: 100%;
+    height: 135vh;
+    padding-right: 0 !important;
+    margin-right: 0 !important;
+    max-width: 100%;
+    background-color: rgb(149, 189, 244) !important;
+}
+
+.work-bg {
+    width: 100%;
+    height: 100vh;
+    padding-right: 0 !important;
+    margin-right: 0 !important;
+    max-width: 100%;
+    background-color: rgb(237, 255, 187) !important;
+}
+
+.interest-bg {
+    width: 100%;
+    height: 100vh;
+    padding-right: 0 !important;
+    margin-right: 0 !important;
+    max-width: 100%;
+    background-color: rgb(179, 236, 224) !important;
 }
 
 .skill-svg {
